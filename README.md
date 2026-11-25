@@ -1,6 +1,6 @@
 # Actividad: Programación Dinámica en C++
 
-Repositorio con la implementación en C++ de dos problemas resueltos mediante **Programación Dinámica** utilizando el enfoque iterativo (*Bottom-Up* / Tabulación).
+Repositorio con la implementación en C++ de dos problemas resueltos mediante **Programación Dinámica**.
 
 ## Archivos del proyecto
 
