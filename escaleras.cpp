@@ -21,6 +21,12 @@ void resolverEscaleras(int n) {
 
     // imprimimos la respuesta final
     cout << "\nFormas posibles: " << dp[n] << "\n";
+    cout << "Tabla DP:\n[";
+    for (int i = 0; i <= n; i++) {
+        cout << dp[i];
+        if (i < n) cout << ", ";
+    }
+    cout << "]\n";
 }
 
 int main() {
